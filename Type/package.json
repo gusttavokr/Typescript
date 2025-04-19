@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development -w"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "webpack-cli": "^6.0.1"
+  }
+}
